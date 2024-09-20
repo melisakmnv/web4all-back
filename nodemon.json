@@ -1,0 +1,5 @@
+{
+    "events": {
+        "start": "cls && echo -------------------------------------- (re)starting node [type rs to force restart] ---------------------------------------"
+    }
+}
